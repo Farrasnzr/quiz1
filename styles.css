@@ -73,7 +73,7 @@ header .main-title:hover {
 nav a {
     font-size: 1.8rem;
     color: #BFA181;
-    margin-left: 4rem;
+    margin-left: 3rem;
     font-weight: 500;
     transition: 0.3s ease;
     border-bottom: 3px solid transparent;
@@ -338,4 +338,5 @@ nav a.active {
     border-radius: 15px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     margin-bottom: 15px;
+
 }
